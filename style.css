@@ -1,0 +1,10 @@
+td{
+    padding: 8px;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    text-align: left;
+}
+th{
+    background-color: #eee;
+}
